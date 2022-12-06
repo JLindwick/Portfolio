@@ -1,104 +1,80 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"#",
+    "name": "Justine Hileman",
+    "role": "Full Stack developer",
+    "linkedinId":"https://www.linkedin.com/in/justine-hileman-6aba4b20b",
+    "skypeid": "live:.cid.5dda6d57d9eb1813",
+    "roleDescription": "I like to change the world, one service or platform at a time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/justine-hileman-6aba4b20b",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/JLindwick",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a recent graduate of Coding Dojo, I have had a passion for programming since an early age. I love puzzles and this industry provides puzzles in spades. I am always in search of the next puzzle towards whatever goal. ",
+    "address":"San Jose, CA",
+    "website":"",
+    "email":"justine.c.russell@gmail.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
+        "UniversityName":"Coding Dojo",
         "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "MonthOfPassing":"Nov",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Python: Red Belt, Java: Red Belt, MERN (Mongoose express react node): Black Belt"
       }
     ],
-    "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"React"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Python"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"Java"
+      },
+      {
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"React-Native"
+      },
+
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Hephaestus",
+        "description":"Teaching Assistant",
+        "imgurl":"images/portfolio/hephaestus.jpg",
+        "githubLink":"https://github.com/JLindwick/Hephaestus"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Snugs4Pugs",
+        "description":"Mock adoption website",
+        "imgurl":"images/portfolio/pug.png",
+        "githubLink":"http://justine-snugsforpugs.org/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Full Crud Project Manager",
+        "description":"React App Full Crud Project Manager",  
+        "imgurl":"images/portfolio/boxchain.jpg",
+        "githubLink":"https://github.com/JLindwick/ProductManagerFullCrud"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "name":"Ecommerce website using Magic the Gathering",
+        "description":"Ecommerce website using fetch request to allow users to post their items listed from the card game's database for sale",
+        "imgurl":"images/portfolio/econ.jpg",
+        "githubLink":"https://github.com/JLindwick/MTGSaleEcon"
+
       }
     ]
   }
